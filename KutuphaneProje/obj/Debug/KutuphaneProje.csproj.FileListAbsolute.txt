@@ -1,0 +1,57 @@
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe.config
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.pdb
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\MySql.Data.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\Google.Protobuf.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\ZstdNet.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\System.Memory.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\System.Buffers.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\bin\Debug\MySql.Data.xml
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.AssemblyReference.cache
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.exe.config
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.formAnasayfa.resources
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.formOgrenci.resources
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.Properties.Resources.resources
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.GenerateResource.cache
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.CoreCompileInputs.cache
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.CopyComplete
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.exe
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.pdb
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.formKitapTur.resources
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.formKitap.resources
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.Form1.resources
+C:\Users\cemsu\source\repos\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.FormOduncKitap.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\KutuphaneProje.exe.config
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\KutuphaneProje.exe
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\KutuphaneProje.pdb
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\ZstdNet.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.exe.config
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.formAnasayfa.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.formKitap.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.formKitapTur.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.FormOduncKitap.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.formOgrenci.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.Properties.Resources.resources
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\Kutuphan.83E0E253.Up2Date
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.exe
+C:\Users\user\Desktop\İTO BİLİŞİM\Buluş\kutuphane cem\Kutuphane(Taslak)\KutuphaneProje\obj\Debug\KutuphaneProje.pdb
